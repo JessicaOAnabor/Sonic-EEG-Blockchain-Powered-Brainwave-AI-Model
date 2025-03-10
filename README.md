@@ -115,5 +115,7 @@ Chen, L., Xu, L., Shah, N., Gao, Z., Lu, Y., & Shi, W. (2018). Decentralized mac
 
 Kuo, T. T., Ohno-Machado, L., & Birtwell, D. (2019). Blockchain distributed ledger technologies for biomedical and health care applications. Journal of the American Medical Informatics Association, 25(9), 1211-1220.
 
+# Copyright Information
 
+This project (Sonic-EEG: Blockchain-Powered Brainwave AI Model) is solely the work of the contributor (Jessica O. Anabor) and does not infringe upon the intellectual property rights of any other individual or organization.
 
