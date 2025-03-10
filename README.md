@@ -20,6 +20,7 @@ The incorporation of artificial intelligence significantly improves the conventi
 
 # How Sonic (SonicBlaze) Plays A Role:
 
+
 ## Decentralized Biomarker Verification – 
 The blockchain framework guarantees that EEG-derived biomarkers (such as frequency bands and event-related potentials) can be accessed without reliance on centralized trust mechanisms.
 
@@ -35,10 +36,12 @@ The EEG data preserved on the blockchain has a direct impact on MRI visualizatio
 # How Sonic Influeences The Model
 The hotspots (red areas) in the MRI, seen below, where EEG activity is most influenced.
 
+![Image](https://github.com/user-attachments/assets/04427a6f-b564-4c21-8e53-cb1d08fb45b7)
+
 The cooler (blue areas) represent weaker but present blockchain-modulated EEG signals.
 The image below shows the accuracy scale (0.99 in this case), proving Sonic’s direct influence (higher accuracy = stronger activations).
 
-This means that as the AI model improves (via blockchain updates), the EEG activations will get more defined in future scans.
+This means that as the AI model improves (via blockchain updates), the EEG activations will get more defined in future scans. This also indicates that Sonic is able to exactly pinpoint where certain brain states are emanating from
 
 
 # Sonic-Integrated EEG MRI Visualization & Model Accuracy Updater App
