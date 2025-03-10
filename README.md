@@ -39,13 +39,13 @@ The first 16 characters of the retrieved EEG hash are converted into an integer-
 ![Image](https://github.com/user-attachments/assets/3b7eb25e-f4e8-4c5f-b71e-7aad695c5092)
 
 
-The hotspots (red areas) in the MRI, seen below, where EEG activity is most influenced.
+The hotspots (red areas) in the MRI, seen below, highlights where EEG activity is most influenced by Sonic.
 
 ![Image](https://github.com/user-attachments/assets/04427a6f-b564-4c21-8e53-cb1d08fb45b7)
 
 
 The cooler (blue areas) represent weaker but present blockchain-modulated EEG signals.
-The image below shows the accuracy scale (0.99 in this case), proving Sonic’s direct influence (higher accuracy = stronger activations).
+The image below shows the accuracy scale (1.0 in this case), proving Sonic’s direct influence (higher accuracy = stronger activations).
 
 This means that as the AI model improves (via blockchain updates), the EEG activations will get more defined in future scans. This also indicates that Sonic is able to exactly pinpoint where certain brain states are emanating from
 
