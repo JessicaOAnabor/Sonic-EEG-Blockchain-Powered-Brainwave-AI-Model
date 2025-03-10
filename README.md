@@ -16,10 +16,11 @@ By producing synthetic EEG waveforms that align with Delta, Theta, Alpha, Beta, 
 The incorporation of artificial intelligence significantly improves the conventional interpretation of EEG data by automating the identification of mental states, including sleep, relaxation, concentration, and stress. 
 
 ![Image](https://github.com/user-attachments/assets/cd5461cd-7260-49b7-91c3-7b94a59f9163)
-![Image](https://github.com/user-attachments/assets/3b7eb25e-f4e8-4c5f-b71e-7aad695c5092)
+
 
 # How Sonic (SonicBlaze) Plays A Role:
 
+![Image](https://github.com/user-attachments/assets/3b7eb25e-f4e8-4c5f-b71e-7aad695c5092)
 
 ## Decentralized Biomarker Verification – 
 The blockchain framework guarantees that EEG-derived biomarkers (such as frequency bands and event-related potentials) can be accessed without reliance on centralized trust mechanisms.
@@ -37,6 +38,7 @@ The EEG data preserved on the blockchain has a direct impact on MRI visualizatio
 The hotspots (red areas) in the MRI, seen below, where EEG activity is most influenced.
 
 ![Image](https://github.com/user-attachments/assets/04427a6f-b564-4c21-8e53-cb1d08fb45b7)
+
 
 The cooler (blue areas) represent weaker but present blockchain-modulated EEG signals.
 The image below shows the accuracy scale (0.99 in this case), proving Sonic’s direct influence (higher accuracy = stronger activations).
