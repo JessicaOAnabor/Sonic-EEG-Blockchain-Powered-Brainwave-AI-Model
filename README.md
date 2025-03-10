@@ -20,8 +20,6 @@ The incorporation of artificial intelligence significantly improves the conventi
 
 # How Sonic (SonicBlaze) Plays A Role:
 
-![Image](https://github.com/user-attachments/assets/3b7eb25e-f4e8-4c5f-b71e-7aad695c5092)
-
 ## Decentralized Biomarker Verification – 
 The blockchain framework guarantees that EEG-derived biomarkers (such as frequency bands and event-related potentials) can be accessed without reliance on centralized trust mechanisms.
 
@@ -35,6 +33,12 @@ This integration connects computational neuroscience, artificial intelligence, a
 The EEG data preserved on the blockchain has a direct impact on MRI visualizations, linking bioelectrical activity stored on the blockchain with structural neuroimaging methodologies.
 
 # How Sonic Influeences The Model
+
+The first 16 characters of the retrieved EEG hash are converted into an integer-based seed value, where signature_hash is the EEG data stored on-chain. This seed controls the stochastic variation in the visualization process, ensuring reproducibility.
+
+![Image](https://github.com/user-attachments/assets/3b7eb25e-f4e8-4c5f-b71e-7aad695c5092)
+
+
 The hotspots (red areas) in the MRI, seen below, where EEG activity is most influenced.
 
 ![Image](https://github.com/user-attachments/assets/04427a6f-b564-4c21-8e53-cb1d08fb45b7)
@@ -47,6 +51,8 @@ This means that as the AI model improves (via blockchain updates), the EEG activ
 
 
 # Sonic-Integrated EEG MRI Visualization & Model Accuracy Updater App
+
+The Sonic-Integrated EEG MRI Visualization & Model Accuracy Updater merges the fields of neuroscience, artificial intelligence, and blockchain technology to create an innovative method for the storage, analysis, and visualization of brain activity within a decentralized framework. This updater provides a secure and transparent mechanism for the storage and retrieval of EEG data.
 
 ## Accuracy Update Procedure  
 
@@ -75,5 +81,7 @@ Name: Jessica O.Anabor
 
 # Please Note
 The .ipynb file is too large for github viewing. Do ensure to download the .ipynb file for proper viewing (Or simply view it here: https://colab.research.google.com/drive/11sQetRvZwEU2Dj_S7unHz21THVzLf1EF?usp=sharing)
+
+If having issues viewing the report on Github, do access it here: https://docs.google.com/document/d/10tV7TrcHOGHzBBDnmVsdRjH9Gvxcf4bK5AvLK0fD_OU/edit?usp=sharing
 
 
