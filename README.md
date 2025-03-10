@@ -36,7 +36,8 @@ The EEG data preserved on the blockchain has a direct impact on MRI visualizatio
 
 The first 16 characters of the retrieved EEG hash are converted into an integer-based seed value, where signature_hash is the EEG data stored on-chain. This seed controls the stochastic variation in the visualization process, ensuring reproducibility.
 
-![Image](https://github.com/user-attachments/assets/3b7eb25e-f4e8-4c5f-b71e-7aad695c5092)
+
+![Image](https://github.com/user-attachments/assets/a8780d1e-3340-4f87-8dee-d15f9914da07)
 
 
 The hotspots (red areas) in the MRI, seen below, highlights where EEG activity is most influenced by Sonic.
@@ -77,7 +78,7 @@ The contract stipulates:
 ![Image](https://github.com/user-attachments/assets/988c0fdc-1dbc-41f8-b679-a2f01f099dee)
 
 # Contributor
-Name: Jessica O.Anabor
+Name: Jessica O. Anabor
 
 # Please Note
 The .ipynb file is too large for github viewing. Do ensure to download the .ipynb file for proper viewing (Or simply view it here: https://colab.research.google.com/drive/11sQetRvZwEU2Dj_S7unHz21THVzLf1EF?usp=sharing)
