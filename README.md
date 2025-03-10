@@ -15,6 +15,8 @@ By producing synthetic EEG waveforms that align with Delta, Theta, Alpha, Beta, 
 
 The incorporation of artificial intelligence significantly improves the conventional interpretation of EEG data by automating the identification of mental states, including sleep, relaxation, concentration, and stress. 
 
+![Image](https://github.com/user-attachments/assets/cd5461cd-7260-49b7-91c3-7b94a59f9163)
+
 
 # How Sonic (SonicBlaze) Plays A Role:
 
