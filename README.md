@@ -61,5 +61,10 @@ The contract stipulates:
 
 - Historical accuracy records can be accessed.
 
+# Contributor
+Name: Jessica O.Anabor
+
+# Please Note
+The .ipynb file is too large for github viewing. Do ensure to download the .ipynb file for proper viewing
 
 
