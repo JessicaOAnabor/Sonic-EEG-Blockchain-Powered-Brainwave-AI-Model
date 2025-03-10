@@ -68,10 +68,12 @@ The contract stipulates:
 
 - Historical accuracy records can be accessed.
 
+![Image](https://github.com/user-attachments/assets/988c0fdc-1dbc-41f8-b679-a2f01f099dee)
+
 # Contributor
 Name: Jessica O.Anabor
 
 # Please Note
-The .ipynb file is too large for github viewing. Do ensure to download the .ipynb file for proper viewing
+The .ipynb file is too large for github viewing. Do ensure to download the .ipynb file for proper viewing (Or simply view it here: https://colab.research.google.com/drive/11sQetRvZwEU2Dj_S7unHz21THVzLf1EF?usp=sharing
 
 
