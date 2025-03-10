@@ -85,4 +85,35 @@ The .ipynb file is too large for github viewing. Do ensure to download the .ipyn
 
 If having issues viewing the report on Github, do access it here: https://docs.google.com/document/d/10tV7TrcHOGHzBBDnmVsdRjH9Gvxcf4bK5AvLK0fD_OU/edit?usp=sharing
 
+# References
+
+Buzsáki, G. (2006). Rhythms of the Brain. Oxford University Press.
+
+Niedermeyer, E., & da Silva, F. (2004). Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. Lippincott Williams & Wilkins.
+
+Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.
+
+Sejnowski, T. J. (2020). The Deep Learning Revolution. MIT Press.
+
+Lopes da Silva, F. (2013). EEG and MEG: Relevance to neuroscience. Neuron, 80(5), 1112-1128.
+
+Friston, K. J. (2011). Functional and effective connectivity: A review. Brain Connectivity, 1(1), 13-36.
+
+Cohen, M. X. (2014). Analyzing Neural Time Series Data: Theory and Practice. MIT Press.
+
+Schirrmeister, R. T., Springenberg, J. T., Fiederer, L. D. J., Glasstetter, M., Eggensperger, K., Tangermann, M., ... & Ball, T. (2017). Deep learning with convolutional neural networks for EEG decoding and visualization. Human Brain Mapping, 38(11), 5391-5420.
+
+Craik, A., He, Y., & Contreras-Vidal, J. L. (2019). Deep learning for electroencephalogram (EEG) classification tasks: A review. Journal of Neural Engineering, 16(3), 031001.
+
+Roy, Y., Banville, H., Albuquerque, I., Gramfort, A., Falk, T. H., & Faubert, J. (2019). Deep learning-based electroencephalography analysis: A systematic review. Journal of Neural Engineering, 16(5), 051001.
+
+Swan, M. (2015). Blockchain: Blueprint for a New Economy. O'Reilly Media.
+
+Zhang, P., White, J., Schmidt, D. C., Lenz, G., & Rosenbloom, S. T. (2018). FHIRChain: Applying blockchain to securely and scalably share clinical data. Computers and Structures, 13(2), 1-10.
+
+Chen, L., Xu, L., Shah, N., Gao, Z., Lu, Y., & Shi, W. (2018). Decentralized machine learning on blockchain. arXiv preprint arXiv:1804.06568.
+
+Kuo, T. T., Ohno-Machado, L., & Birtwell, D. (2019). Blockchain distributed ledger technologies for biomedical and health care applications. Journal of the American Medical Informatics Association, 25(9), 1211-1220.
+
+
 
